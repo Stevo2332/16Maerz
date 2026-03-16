@@ -1,0 +1,14 @@
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\bin\Debug\net10.0\Uebungen20260316.Wiederholung.exe
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\bin\Debug\net10.0\Uebungen20260316.Wiederholung.deps.json
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\bin\Debug\net10.0\Uebungen20260316.Wiederholung.runtimeconfig.json
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\bin\Debug\net10.0\Uebungen20260316.Wiederholung.dll
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\bin\Debug\net10.0\Uebungen20260316.Wiederholung.pdb
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.AssemblyInfoInputs.cache
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.AssemblyInfo.cs
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.csproj.CoreCompileInputs.cache
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.dll
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\refint\Uebungen20260316.Wiederholung.dll
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.pdb
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\Uebungen20260316.Wiederholung.genruntimeconfig.cache
+C:\Users\miros\Git\Uebungen20260316\Uebungen20260316.Wiederholung\obj\Debug\net10.0\ref\Uebungen20260316.Wiederholung.dll

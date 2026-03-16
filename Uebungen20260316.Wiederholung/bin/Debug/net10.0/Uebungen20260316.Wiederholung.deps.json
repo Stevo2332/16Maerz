@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Uebungen20260316.Wiederholung/1.0.0": {
+        "runtime": {
+          "Uebungen20260316.Wiederholung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uebungen20260316.Wiederholung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
