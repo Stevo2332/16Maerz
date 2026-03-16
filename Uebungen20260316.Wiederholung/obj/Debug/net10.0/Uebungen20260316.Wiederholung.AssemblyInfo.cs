@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uebungen20260316.Wiederholung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae1962035fa8ce2a72bb027ad3206e935d95957a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uebungen20260316.Wiederholung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uebungen20260316.Wiederholung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

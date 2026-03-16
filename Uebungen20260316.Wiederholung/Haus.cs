@@ -13,6 +13,10 @@ public class Haus
         Farbe = _farbe;
 
     }
+    public void Anstreichen (string _farbe)
+    {
+    Farbe = _farbe;
+    }
     public string Farbe { get; private set; } = "weiß"; 
     public double Quadratmeter
     {
